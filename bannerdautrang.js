@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://trungtamtieccuoibachkim.blogspot.com/' target='_blank'><img src='http://nhahangbachkim.com.vn/upload/source/KM_MUA_HE_2018/Mua-He-2018.png' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://trungtamtieccuoibachkim.blogspot.com/' target='_blank'><img src='http://nhahangbachkim.com.vn/upload/source/KM_MUA_HE_2018/Mua-He-2018.png' width='500px'/><br/>nha hang tiec cuoi bach kim khuyen mai mua he</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
